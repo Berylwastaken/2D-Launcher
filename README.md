@@ -1,2 +1,2 @@
-# Drake-Launcher
-eaglercraft client launcher
+# 2D Launcher
+eagler client launcher
